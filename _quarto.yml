@@ -1,23 +1,41 @@
 project:
   type: book
+  output-dir: docs
 
 book:
-  title: "cataim"
-  author: "Jane Doe"
+  title: "Cataim - Catatan Hitam"
+  author: "?"
   date: "10/3/2023"
+  search: true
+  repo-url: https://github.com/wiryadana/the_wiryadana_notebooks
+  downloads: pdf
   chapters:
     - index.qmd
-    - intro.qmd
+    - todo.qmd
+    - kgh.qmd
+    - kgeh.qmd
+    - kai.qmd
+    - kr.qmd
+    - khom.qmd
+    - kkv.qmd
+    - kpmk.qmd
+    - kpti.qmd
+    - kger.qmd
+    - kemd.qmd
+    - kpsi.qmd
     - summary.qmd
     - references.qmd
 
 bibliography: references.bib
+execute: 
+  echo: false
 
 format:
   html:
     theme: cosmo
+    number-depth: 3
   pdf:
     documentclass: scrreprt
 
-editor: visual
+editor: source
 

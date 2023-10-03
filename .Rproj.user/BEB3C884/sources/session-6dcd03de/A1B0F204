@@ -1,0 +1,31 @@
+{
+    "id": "A1B0F204",
+    "path": "~/R.project/cataim/kgh.qmd",
+    "project_path": "kgh.qmd",
+    "type": "quarto_markdown",
+    "hash": "2874942416",
+    "contents": "",
+    "dirty": false,
+    "created": 1696330697576.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "2:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1696330709,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1696330709022,
+    "read_only": false,
+    "read_only_alternatives": []
+}

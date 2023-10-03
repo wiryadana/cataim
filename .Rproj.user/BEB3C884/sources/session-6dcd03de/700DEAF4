@@ -1,0 +1,31 @@
+{
+    "id": "700DEAF4",
+    "path": "~/R.project/cataim/kai.qmd",
+    "project_path": "kai.qmd",
+    "type": "quarto_markdown",
+    "hash": "533497045",
+    "contents": "",
+    "dirty": false,
+    "created": 1696330662235.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "0,2",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "2:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1696330668,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1696330668902,
+    "read_only": false,
+    "read_only_alternatives": []
+}
